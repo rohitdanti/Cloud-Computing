@@ -6,7 +6,7 @@ Designed to simulate production-grade media intelligence and security workflows,
 
 ---
 
-## 🔧 Project Overview
+## 🔧 Project Overview 
 
 | Component                   | Description                                                                 |
 |-----------------------------|-----------------------------------------------------------------------------|
